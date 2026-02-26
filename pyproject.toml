@@ -1,0 +1,10 @@
+[project]
+name = "kaggle-cv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "monai>=1.5.2",
+    "timm>=1.0.25",
+]
